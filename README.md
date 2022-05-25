@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @adindarizky99
-- 👀 I’m interested in Data analyst
-- 🌱 I’m currently learning in Computer Science Department University of Lampung
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me just send an email to adindarizky@outlook.com
+- 👀 I’m a Computer Science Fresh Graduate | Heavily Interest in Data, Machine Learning, and Business Analytics.
+- 🌱 I’m eager to learn about data analytics, data science, machine learning, and consulting stuff.
+- 📫 I can be reached via email at adindarizky@outlook.com or by phone at (+62) 822.8101.2026.
 
 <!---
 adindarizky99/adindarizky99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
